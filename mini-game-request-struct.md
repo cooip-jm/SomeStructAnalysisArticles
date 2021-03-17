@@ -6,7 +6,7 @@ nodejs实现参考：https://github.com/protobufjs/protobuf.js
 
 protoc工具可参考：https://github.com/protocolbuffers/protobuf
 
-## 基本请求结构
+## 请求结构示例
 ```protobuf
 # c.proto
 
